@@ -314,99 +314,138 @@
     <!-- navbar area end -->
   </div>
   <div class="header-slider-one">
-    <div class="header-area header-sanatory header-bg" style="background-image:url(assets/img/header-bg.png);">
+    <div class="header-area header-sanatory header-bg" style="height:700px; background-size:cover; background-position: center center; background-image:url(assets/img/header-bgg.png);">
         <div class="senatory-bg-img" style="background-image:url(assets/img/body-1.png);"></div>
-        <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
+        <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
           <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
         s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
-        </svg>
+        </svg> -->
         <div class="container nav-container">
             <div class="row">
                 <div class="col-lg-8">
                   <div class="header-inner">
                     <!-- header inner -->
-                    <h1 class="title">Together we can make Better world</h1>
-                    <h5 class="subtitle-01">
-                      <i class="fas fa-circle"></i>Vote for the best candidate
-                    </h5>
-                    <p>
-                      President represented Delaware for 36 years in the U.S. Senate
-                      before becoming the 47th Vice President of the United States. As
-                      President, Harison will restore America’s leadership and build
-                      our communities back better.
+                    <h1 class="title">Small Business Empowerment</h1>
+                    <h3 class="subtitle-01">
+                    Empowering dreams, transforming futures
+                    </h3>
+                    <p class="bg-white p-1 ">
+                    At the Nduka Anyanwu Foundation, we're dedicated to supporting small businesses and aspiring entrepreneurs. Our recent contest was an incredible journey of dreams and aspirations, where participants shared their visions for success.
                     </p>
-                    <div class="btn-wrapper  padding-top-35 padding-bottom-50">
-                      <a href="#" class="boxed-btn btn-sanatory style-01"><i class="fas fa-arrow-right"></i>Discover More</a>
-                      <a class="video-play mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
-                        <i class="fas fa-play"></i>
-                      </a>
-                    </div>
+
                   </div>
                     <!-- //.header inner -->
                 </div>
             </div>
         </div>
     </div>
-    <div class="header-area header-sanatory header-bg" style="background-image:url(assets/img/header-bg.png);">
-      <div class="senatory-bg-img" style="background-image:url(assets/img/woman-min.png);"></div>
-      <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
+    <div class="header-area header-sanatory header-bg bg-success" style="height:700px; background-size: cover; background-position: center center; background-image:url(assets/img/header-bg3.png);">
+      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
         <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
       s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
-      </svg>
+      </svg> -->
       <div class="container nav-container">
           <div class="row">
               <div class="col-lg-8">
                 <div class="header-inner">
                   <!-- header inner -->
-                  <h1 class="title">Together we can make Better country</h1>
+                  <h1 class="title">We asked people what they will do, <br> if they received 100k/ 50k for small business empowerments</h1>
                   <h5 class="subtitle-01">
-                    <i class="fas fa-circle"></i>Vote for the best candidate
+
                   </h5>
-                  <p>
-                    President represented Delaware for 36 years in the U.S. Senate
-                    before becoming the 47th Vice President of the United States. As
-                    President, Harison will restore America’s leadership and build
-                    our communities back better.
-                  </p>
-                  <div class="btn-wrapper  padding-top-35 padding-bottom-50">
+                  <div style="min-heigh: 100px;">
+
+                      </div>
+                  <!-- <div class="btn-wrapper  padding-top-35 padding-bottom-50">
                     <a href="#" class="boxed-btn btn-sanatory style-01"><i class="fas fa-arrow-right"></i>Discover More</a>
                     <a class="video-play mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
                       <i class="fas fa-play"></i>
                     </a>
-                  </div>
+                  </div> -->
                 </div>
                   <!-- //.header inner -->
               </div>
           </div>
       </div>
     </div>
-    <div class="header-area header-sanatory header-bg" style="background-image:url(assets/img/header-bg.png);">
-        <div class="senatory-bg-img" style="background-image:url(assets/img/men-photo.png);"></div>
-        <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
-          <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
-        s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
-        </svg>
+    <div class="header-area header-sanatory header-bg" style="height:700px; background-size: cover; background-position: center center; background-image:url(assets/img/header-bg2.png);">
+      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
+        <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
+      s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
+      </svg> -->
+      <div class="container nav-container">
+          <div class="row">
+              <div class="col-lg-10 bg-dange text-center mx-auto">
+                <div class="header-inner mx-auto bg-succes">
+                  <!-- header inner -->
+                  <h1 class="title bg-warnin col-lg-2 mt-5" style="max-width: max-content;">31 People shared their thoughts and visions with us.</h1>
+                  <h5 class="subtitle-01">
+
+                  </h5>
+                  <div style="min-heigh: 230px;">
+
+                      </div>
+                  <!-- <div class="btn-wrapper  padding-top-35 padding-bottom-50">
+                    <a href="#" class="boxed-btn btn-sanatory style-01"><i class="fas fa-arrow-right"></i>Discover More</a>
+                    <a class="video-play mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
+                      <i class="fas fa-play"></i>
+                    </a>
+                  </div> -->
+                </div>
+                  <!-- //.header inner -->
+              </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="header-area header-sanatory header-bg" style="height:700px; background-size: cover; background-position: center left; background-image:url(assets/img/header-bg4.png);">
+      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
+        <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
+      s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
+      </svg> -->
+      <div class="container nav-container">
+          <div class="row">
+              <div class="col-lg-8">
+                <div class="header-inner">
+                  <!-- header inner -->
+                  <h1 class="title"></h1>
+                  <h5 class="subtitle-01 ">
+
+                  </h5>
+                  <div style="min-heigh: 420px; max-width: 500px; margin-top: 80px;" class="mt-5 pt-5">
+                        <h2>Meet our Top Winner, whose entrepreneurial spirit and vision captured hearts, earning them 100k Naira to turn their dream into reality. Success story in the making!</h2>
+                      </div>
+                  <!-- <div class="btn-wrapper  padding-top-35 padding-bottom-50">
+                    <a href="#" class="boxed-btn btn-sanatory style-01"><i class="fas fa-arrow-right"></i>Discover More</a>
+                    <a class="video-play mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
+                      <i class="fas fa-play"></i>
+                    </a>
+                  </div> -->
+                </div>
+                  <!-- //.header inner -->
+              </div>
+          </div>
+      </div>
+    </div>
+    <div class="header-area header-sanatory header-bg" style="height:700px; background-size:cover; background-position: center left; background-image:url(assets/img/header-bg5.png);">
+        <div class="senatory-bg-img" style="background-image:url(assets/img/men-phot.png);"></div>
+
         <div class="container nav-container">
             <div class="row">
                 <div class="col-lg-8">
                   <div class="header-inner">
                     <!-- header inner -->
-                    <h1 class="title">Together we can make Better city</h1>
+                    <h1 class="title"></h1>
                     <h5 class="subtitle-01">
-                      <i class="fas fa-circle"></i>Vote for the best candidate
+
                     </h5>
-                    <p>
-                      President represented Delaware for 36 years in the U.S. Senate
-                      before becoming the 47th Vice President of the United States. As
-                      President, Harison will restore America’s leadership and build
-                      our communities back better.
-                    </p>
-                    <div class="btn-wrapper  padding-top-35 padding-bottom-50">
-                      <a href="#" class="boxed-btn btn-sanatory style-01"><i class="fas fa-arrow-right"></i>Discover More</a>
-                      <a class="video-play mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
-                        <i class="fas fa-play"></i>
-                      </a>
+                    <div style="min-heigh: 450px;">
+
                     </div>
+
                   </div>
                     <!-- //.header inner -->
                 </div>
