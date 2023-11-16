@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from themeim.com/demo/senatory/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 10:24:52 GMT -->
+<!-- Mirrored from themeim.com/demo/Nduka Anananwu Foundation/index by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 10:24:52 GMT -->
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -93,7 +93,7 @@
   <!--  search Popup start -->
   <div class="body-overlay" id="body-overlay"></div>
   <div class="search-popup" id="search-popup">
-      <form action="https://themeim.com/demo/senatory/index.html" class="search-form">
+      <form action="https://themeim.com/demo/Nduka Anananwu Foundation/index" class="search-form">
           <div class="form-group">
               <input type="text" class="form-control" placeholder="Search.....">
           </div>
@@ -162,14 +162,14 @@
     </div>
     <div class="btn-wrapper vote-btn">
       <a href="#" class="boxed-btn btn-sanatory">
-          Vote Now
+          Join Our Team
           <i class="fas fa-vote-yea"></i>
       </a>
     </div>
   </div>
   <div class="btn-wrapper poll-btn">
     <span class="boxed-btn btn-poll">
-      Vote Now
+      Join Our Team
       <i class="fas fa-vote-yea"></i>
     </span>
   </div>
@@ -236,7 +236,7 @@
       <div class="container nav-container">
         <div class="responsive-mobile-menu">
           <div class="logo-wrapper">
-            <a href="index.html" class="logo">
+            <a href="index" class="logo">
               <img src="assets/img/logo.png" alt="" />
             </a>
           </div>
@@ -315,7 +315,7 @@
   </div>
   <div class="header-slider-one">
     <div class="header-area header-sanatory header-bg" style="height:700px; background-size:cover; background-position: center center; background-image:url(assets/img/header-bgg.png);">
-        <div class="senatory-bg-img" style="background-image:url(assets/img/body-1.png);"></div>
+        <div class="Nduka Anananwu Foundation-bg-img" style="background-image:url(assets/img/body-2.png);"></div>
         <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
           <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
         s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
@@ -340,7 +340,7 @@
         </div>
     </div>
     <div class="header-area header-sanatory header-bg bg-success" style="height:700px; background-size: cover; background-position: center center; background-image:url(assets/img/header-bg3.png);">
-      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <div class="Nduka Anananwu Foundation-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
       <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
         <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
       s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
@@ -370,7 +370,7 @@
       </div>
     </div>
     <div class="header-area header-sanatory header-bg" style="height:700px; background-size: cover; background-position: center center; background-image:url(assets/img/header-bg2.png);">
-      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <div class="Nduka Anananwu Foundation-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
       <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
         <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
       s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
@@ -401,7 +401,7 @@
     </div>
 
     <div class="header-area header-sanatory header-bg" style="height:700px; background-size: cover; background-position: center left; background-image:url(assets/img/header-bg4.png);">
-      <!-- <div class="senatory-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
+      <!-- <div class="Nduka Anananwu Foundation-bg-img" style="height: 230px; background-image:url(assets/img/woman-min.png);"></div> -->
       <!-- <svg viewBox="0 0 191.6 78.6" class="lottie-shape">
         <path class="path" fill="none" stroke="#DD131A" stroke-width="4.5" stroke-linecap="round" d="M186.3,17.5c0,0-36.4-18.2-92.3-14.7S1.4,29.6,2.9,47.8s34.4,25.9,62.6,28s79.9-1.5,108.2-14.9
       s12.8-31.8-5.9-37.7c-26.4-8.4-49.5-9.5-49.5-9.5"/>
@@ -431,7 +431,7 @@
       </div>
     </div>
     <div class="header-area header-sanatory header-bg" style="height:700px; background-size:cover; background-position: center left; background-image:url(assets/img/header-bg5.png);">
-        <div class="senatory-bg-img" style="background-image:url(assets/img/men-phot.png);"></div>
+        <div class="Nduka Anananwu Foundation-bg-img" style="background-image:url(assets/img/men-phot.png);"></div>
 
         <div class="container nav-container">
             <div class="row">
@@ -455,8 +455,45 @@
 </div>
 <!-- Header section End -->
 
+  <!-- Vote Section Start -->
+  <div class="vote-section-area vote-bg margin-top-120" style="background-attachment:scroll;   background-image: url(assets/img/vote-banner2.png)">
+    <img src="assets/img/party-shape.png" class="party-shape" alt="" />
+    <img src="assets/img/party-shape-02.png" class="party-shape-01" alt="" />
+    <div class="party-shape-02"></div>
+    <div class="party-shape-03"></div>
+    <div class="container">
+      <div class="row justify-content-end">
+        <div class="col-lg-7">
+          <div class="party-single-item style-01">
+            <div class="content">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <p class="text-dark">Our Foundation</p>
+                <div class="icon">
+                  <i class="icon-star"></i>
+                  <i class="icon-star"></i>
+                  <i class="icon-star"></i>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp text-dark">Nduka Anyanwu Foundation</h4>
+              <p class="description style-01 wow animate__animated animate__fadeInUp text-dark">
+                We believe strongly in human capital development. Everyone is important, and we achieve this through our empowerment programs.
+              </p>
+              <div class="video-section wow animate__animated animate__fadeInUp">
+                <span>Watch the video</span>
+                <a class="video-play style-01 mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
+                  <i class="fas fa-play"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Vote Section End -->
+
   <!-- Header bottom Section Start -->
-  <div class="header-bottom-area padding-top-120 padding-bottom-70"
+  <div class="header-bottom-area padding-top-120 padding-bottom-70 d-none"
     style="background-image: url(assets/img/dotted-shape.png)">
     <div class="container">
       <div class="row">
@@ -522,29 +559,26 @@
           <div class="party-single-item vision">
             <div class="content">
               <div class="subtitle wow animate__animated animate__fadeInUp">
-                <p>Our Party Visions</p>
+                <p>Our Mission</p>
                 <div class="icon">
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
               </div>
-              <h4 class="title wow animate__animated animate__fadeInUp">Join The Fight for Our Freedom</h4>
               <p class="description wow animate__animated animate__fadeInUp">
-                Every pleasures is to welcomed pain avoided owing to the duty the obligations of business it will frequently occur that pleasures have to.
+                Enriching Lives:
+                Through Empowering People and Communities, Inspiring Change
               </p>
-              <p class="description none wow animate__animated animate__fadeInUp">
-                How all this mistaken idea of denouncing pleasure and praising
-                pain was born & we will give you a complete account of the
-                system.
+              <h4 class="title wow animate__animated animate__fadeInUp">In the heart of Ahiazu Mbaise, a visionary leader emerged</h4>
+              <p class="description wow animate__animated animate__fadeInUp">
+                Nduka Anyanwu’s tireless efforts to uplift his community have inspired many. Through the foundation’s programs and projects, individuals are empowered to break free from the chains of poverty and embrace their full potential.
               </p>
-              <div class="feedback wow animate__animated animate__fadeInUp">
-                <span>99.8%</span>
-                <p>Positive Feedback From Peoples</p>
-              </div>
+
+
             </div>
             <div class="  btn-wrapper margin-top-35  wow animate__animated animate__fadeInUp">
-              <a href="about.html" class="boxed-btn btn-sanatory style-02"><i class="fas fa-arrow-right"></i>Read More Us</a>
+              <a href="/about-us" class="boxed-btn btn-sanatory style-02"><i class="fas fa-arrow-right"></i>Read More Us</a>
             </div>
           </div>
         </div>
@@ -553,8 +587,457 @@
   </div>
   <!-- Our party section end -->
 
+    <!-- News Section Start -->
+    <div class="news-section-start">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+                <p>Our Gallery</p>
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp">Education</h4>
+
+              <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                Nduka Anyanwu’s tireless efforts to uplift his community have inspired many. Through the foundation’s programs and projects, individuals are empowered to break free from the chains of poverty and embrace their full potential.Nduka Anyanwu’s tireless efforts to uplift his community have inspired many. Through the foundation’s programs and projects, individuals are empowered to break free from the chains of poverty and embrace their full potential.
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-1.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                  <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-2.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-3.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-4.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-5.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-6.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+    <!-- News Section End  -->
+
+
+    <!-- News Section Start -->
+    <div class="news-section-start">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+                <p>Our Gallery</p>
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp">Youth Empowerment and Sports</h4>
+
+              <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                Nduka Anyanwu recognizes the power of youth and the transformative impact of sports. With a firm belief that every young person deserves a chance to shine, he has established youth empowerment initiatives that harness their talents and nurture their potential. Through sports programs, coaching, and training, he inspires a generation to strive for greatness, instilling values of discipline, teamwork, and resilience.
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-8.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                  <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-9.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-10.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-11.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-12.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-13.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+    <!-- News Section End  -->
+
+
+    <!-- News Section Start -->
+    <div class="news-section-start">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+                <p>Our Gallery</p>
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp">Support to the Physically Challenged</h4>
+
+              <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                Nduka Anyanwu’s compassion extends to those who face physical challenges in their daily lives. His foundation reaches out to the physically challenged, offering them support, resources, and opportunities for a fulfilling life. From providing assistive devices and rehabilitation services to advocating for inclusivity and accessibility, he champions the rights and dignity of individuals with disabilities.
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6 col-md-12">
+            <div class="news-single-items wow animate__animated animate__fadeInUp">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-7.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                  <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+    <!-- News Section End  -->
+
+    <!-- News Section Start -->
+    <div class="news-section-start">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+                <p>Our Gallery</p>
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp">Care for the Elderly</h4>
+
+              <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                In a world where the elderly often face neglect and hardship, Nduka Anyanwu’s compassion knows no bounds. Through his foundation, he has constructed and renovated homes of some elderly members of his community, creating safe havens, offering care, and ensuring that their golden years get a good measure of comfort and warmth.
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-15.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                  <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-16.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+    <!-- News Section End  -->
+
+
+
+    <!-- News Section Start -->
+    <div class="news-section-start">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+              <div class="subtitle wow animate__animated animate__fadeInUp">
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+                <p>Our Gallery</p>
+                <div class="icon">
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                  <span class="icon-star"></span>
+                </div>
+              </div>
+              <h4 class="title wow animate__animated animate__fadeInUp">Sustainable Community Development</h4>
+
+              <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                Nduka Anyanwu envisions thriving communities where progress is sustainable and prosperity is shared by all. Through his foundation’s sustainable community development initiatives, he supports communities to be self-reliant and promote peaceful coexistence and brotherliness. He sets the stage for a future where everyone can thrive, leaving a legacy of resilience and empowerment.
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-18.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                  <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-19.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
+              <div class="news-bg" style="background-image: url(assets/img/gallery-20.png);">
+                {{-- <span class="even">Event</span> --}}
+                <div class="content">
+                    <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                  <div class="author-meta">
+                    {{-- <p class="author-name">By:Smith Roy</p> --}}
+                    <p>24th March,2021</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+    <!-- News Section End  -->
+
   <!-- Donation Section Start -->
-  <div class="donation-section-area">
+  <div class="donation-section-area d-none">
     <div class="container">
       <div class="row">
         <div class="col-lg-7">
@@ -593,47 +1076,10 @@
   </div>
   <!-- Donation Section End -->
 
-  <!-- Vote Section Start -->
-  <div class="vote-section-area vote-bg margin-top-120" style="background-image: url(assets/img/vote-banner.png)">
-    <img src="assets/img/party-shape.png" class="party-shape" alt="" />
-    <img src="assets/img/party-shape-02.png" class="party-shape-01" alt="" />
-    <div class="party-shape-02"></div>
-    <div class="party-shape-03"></div>
-    <div class="container">
-      <div class="row justify-content-end">
-        <div class="col-lg-7">
-          <div class="party-single-item style-01">
-            <div class="content">
-              <div class="subtitle wow animate__animated animate__fadeInUp">
-                <p>Vote Our Party</p>
-                <div class="icon">
-                  <i class="icon-star"></i>
-                  <i class="icon-star"></i>
-                  <i class="icon-star"></i>
-                </div>
-              </div>
-              <h4 class="title wow animate__animated animate__fadeInUp">Your Support make help us</h4>
-              <p class="description style-01 wow animate__animated animate__fadeInUp">
-                Every pleasures is to welcomed pain avoided owing to the duty
-                the obligations of business it will frequently occur that
-                pleasures have to be repudiated.
-              </p>
-              <div class="video-section wow animate__animated animate__fadeInUp">
-                <span>Watch the video</span>
-                <a class="video-play style-01 mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
-                  <i class="fas fa-play"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Vote Section End -->
+
 
   <!-- Campaigns Section Start -->
-  <div class="campaign-section-area">
+  <div class="campaign-section-area d-none">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-8">
@@ -693,7 +1139,7 @@
                     <span class="event">Event</span>
                     <span class="date">29 May 2021</span>
                   </div>
-                  <a href="event-single.html"><h5 class="title">Let’s Make Country Great with Razniti</h5></a>
+                  <a href="event-single"><h5 class="title">Let’s Make Country Great with Razniti</h5></a>
                   <p>
                     Every pleasures is to welcomed pain avoided owing to the
                     duty the obligations of business.
@@ -706,7 +1152,7 @@
                     <span class="event">Event</span>
                     <span class="date">29 May 2021</span>
                   </div>
-                  <a href="event-single.html"><h5 class="title">Lets meet & help for education in tax</h5></a>
+                  <a href="event-single"><h5 class="title">Lets meet & help for education in tax</h5></a>
                   <p>
                     Every pleasures is to welcomed pain avoided owing to the
                     duty the obligations of business.
@@ -719,7 +1165,7 @@
                     <span class="event">Event</span>
                     <span class="date">29 May 2021</span>
                   </div>
-                  <a href="event-single.html"><h5 class="title">Lets meet for protecting eco system</h5></a>
+                  <a href="event-single"><h5 class="title">Lets meet for protecting eco system</h5></a>
                   <p class="style-01">
                     Every pleasures is to welcomed pain avoided owing to the
                     duty the obligations of business.
@@ -789,7 +1235,7 @@
   <!-- Campaigns Section End -->
 
   <!-- Volunteer Section Start -->
-  <div class="volunteer-section-area">
+  <div class="volunteer-section-area d-none">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-9">
@@ -939,7 +1385,7 @@
             <div class="single-counterup-01 style-04">
               <div class="content">
                 <div class="count-wrap"><span class="count-num">35</span>k+</div>
-                <h4 class="title">Vote Paper</h4>
+                <h4 class="title">Projects</h4>
               </div>
             </div>
           </div>
@@ -958,7 +1404,7 @@
   <!-- Counter Section End -->
 
   <!-- Testimonial Section Start -->
-  <div class="testimonial-section-area testimonial-bg margin-top-120"
+  <div class="testimonial-section-area testimonial-bg margin-top-120 d-none"
     style="background-image: url(assets/img/team.png);">
     <div class="shapes">
       <img src="assets/img/shape-04.png" class="shape-01" alt="">
@@ -1055,93 +1501,7 @@
   </div>
   <!-- Testimonial Secition End -->
 
-  <!-- News Section Start -->
-  <div class="news-section-start">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-6">
-          <div class="section-title">
-            <div class="subtitle wow animate__animated animate__fadeInUp">
-              <div class="icon">
-                <span class="icon-star"></span>
-                <span class="icon-star"></span>
-                <span class="icon-star"></span>
-              </div>
-              <p>Our News</p>
-              <div class="icon">
-                <span class="icon-star"></span>
-                <span class="icon-star"></span>
-                <span class="icon-star"></span>
-              </div>
-            </div>
-            <h4 class="title wow animate__animated animate__fadeInUp">Latest News & Articles</h4>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="news-single-items wow animate__animated animate__fadeInUp">
-            <div class="news-bg" style="background-image: url(assets/img/businessmen-shaking-hands.png);">
-              <span class="even">Event</span>
-              <div class="content">
-                <a href="news-single.html"><h4 class="title">Many important brands have given us their trust</h4></a>
-                <div class="author-meta">
-                  <p class="author-name">By:Smith Roy</p>
-                  <p>24th March,2021</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="news-single-items wow animate__animated animate__fadeInUp animate__delay-1s">
-            <div class="news-bg" style="background-image: url(assets/img/partners-shaking-hands.png);">
-              <span class="even">Event</span>
-              <div class="content">
-                  <a href="news-single.html"><h4 class="title">Many important brands have given us their trust</h4></a>
-                <div class="author-meta">
-                  <p class="author-name">By:Smith Roy</p>
-                  <p>24th March,2021</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-12">
-          <ul class="news-single-list wow animate__animated animate__fadeInRight animate__delay-2s">
-            <li class="news-single-list-items">
-              <div class="thumb">
-                <img src="assets/img/cheking-sheet.png" alt="">
-              </div>
-              <div class="content">
-                <span class="date">24th March,2021</span>
-                <a href="news-single.html"><h4 class="title">Many important brands have given us their</h4></a>
-              </div>
-            </li>
-            <li class="news-single-list-items">
-              <div class="thumb">
-                <img src="assets/img/busisess-women.png" alt="">
-              </div>
-              <div class="content">
-                <span class="date">24th March,2021</span>
-                <a href="news-single.html"><h4 class="title">Many important brands have given us their</h4></a>
-              </div>
-            </li>
-            <li class="news-single-list-items">
-              <div class="thumb">
-                <img src="assets/img/discussion.png" alt="">
-              </div>
-              <div class="content">
-                <span class="date">24th March,2021</span>
-                <a href="news-single.html"><h4 class="title">Many important brands have given us their</h4></a>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- News Section End  -->
+
 
   <!-- footer area start -->
   <footer class="footer-area line-bg" style="background-image: url(assets/img/line.png);">
@@ -1152,14 +1512,12 @@
             <div class="col-lg-4 col-md-6">
               <div class="footer-widget widget">
                 <div class="about_us_widget wow animate__animated animate__fadeInUp">
-                  <a href="index.html" class="footer-logo"> <img src="assets/img/footer-logo.png" alt="footer logo"></a>
-                  <p>President represented Delaware for 36 years in the U.S. Senate before becoming the 47th Vice
-                    President of the United States.</p>
+                  <a href="index" class="footer-logo"> <img src="assets/img/footer-logo.png" alt="footer logo"></a>
+                  <p>Commited to empowerment.</p>
                   <div class="social-links">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
+
                   </div>
                 </div>
               </div>
@@ -1171,7 +1529,7 @@
                     <i class="icon-location"></i>
                   </div>
                   <div class="details style-01">
-                    66 Broklyn Street 30 Road. New York United States
+                    Ultima Plaza, Afor-Oru, along Eke Ahiara, Aba branch road, 1st Floor, Yellow Upstair, opposite Community Primary School, Afor-Oru, Ahiara, Ahiazu Mbaise LGA, Imo State, Nigeria.
                   </div>
                 </li>
                 <li class="single-info-item">
@@ -1200,7 +1558,7 @@
                 <div class="header-content">
                   <h4 class="title">Join Our Newsletter</h4>
                 </div>
-                <form class="subscribe-form" action="https://themeim.com/demo/senatory/index.html">
+                <form class="subscribe-form" action="https://themeim.com/demo/Nduka Anananwu Foundation/index">
                   <div class="form-group">
                     <input type="text" class="form-control" placeholder="Enter Email">
                   </div>
@@ -1214,7 +1572,7 @@
         </div>
         <div class="footer-bottom-border">
           <div class="row">
-            <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+            <div class=" col-md-4 ">
               <div class="footer-widget widget widget_nav_menu wow animate__animated animate__fadeInUp">
                 <h4 class="widget-title">
                   Explore
@@ -1234,7 +1592,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+            <div class=" col-md-4 ">
               <div class="footer-widget widget widget_nav_menu wow animate__animated animate__fadeInUp">
                 <h4 class="widget-title">
                   Useful Links
@@ -1254,7 +1612,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+            <div class=" col-md-4 ">
               <div class="footer-widget widget widget_nav_menu wow animate__animated animate__fadeInUp">
                 <h4 class="widget-title">
                   Quick Links
@@ -1274,48 +1632,8 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-              <div class="footer-widget widget widget_nav_menu wow animate__animated animate__fadeInUp">
-                <h4 class="widget-title">
-                  Events Campaigns
-                  <span class="line">
-                    <span class="dot"></span>
-                    <span class="dot"></span>
-                    <span class="dot style-02"></span>
-                    <span class="dot"></span>
-                    <span class="dot"></span>
-                  </span>
-                </h4>
-                <div class="footer-event-item">
-                  <div class="content">
-                    <div class="designation">
-                      <span class="event">Event</span>
-                      <span class="date">29 May 2021</span>
-                    </div>
-                    <h6 class="title"><a href="event-single.html">Lets meet for protecting eco system</a></h6>
-                    <p>
-                      Every pleasures is to welcomed pain avoided owing to the duty the
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget widget style-01 widget_nav_menu wow animate__animated animate__fadeInUp">
-                <div class="footer-event-item">
-                  <div class="content">
-                    <div class="designation">
-                      <span class="event">Event</span>
-                      <span class="date">29 May 2021</span>
-                    </div>
-                    <h6 class="title"><a href="event-single.html">Lets meet for protecting eco system</a></h6>
-                    <p>
-                      Every pleasures is to welcomed pain avoided owing to the duty the
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
+
+
           </div>
         </div>
         <div class="copyright-area">
@@ -1323,7 +1641,7 @@
             <div class="row">
               <div class="col-lg-12">
                 <div class="copyright-area-inner">
-                  Copyright © 2022 Senatory. All Rights Reserved. Designed by Theme IM
+                  Copyright © 2022 Nduka Anananwu Foundation. All Rights Reserved. Designed by vicSystems Technologies Ltd.
                 </div>
               </div>
             </div>
@@ -1361,5 +1679,5 @@
 </body>
 
 
-<!-- Mirrored from themeim.com/demo/senatory/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 10:25:59 GMT -->
+<!-- Mirrored from themeim.com/demo/Nduka Anananwu Foundation/index by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 10:25:59 GMT -->
 </html>
