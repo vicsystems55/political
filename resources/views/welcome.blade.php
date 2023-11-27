@@ -480,7 +480,7 @@
               </p>
               <div class="video-section wow animate__animated animate__fadeInUp">
                 <span>Watch the video</span>
-                <a class="video-play style-01 mfp-iframe" href="https://www.youtube.com/watch?v=-ZwQtICNbRc">
+                <a class="video-play style-01 mfp-iframe" href="{{asset('/')}}assets/vid/Nduka-Anyanwu-foundation-video.mp4">
                   <i class="fas fa-play"></i>
                 </a>
               </div>
