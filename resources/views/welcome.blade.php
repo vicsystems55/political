@@ -621,7 +621,9 @@
                     <div class="news-bg" style="background-image: url(assets/img/gal1.jpg);">
                       {{-- <span class="even">Event</span> --}}
                       <div class="content">
-                        <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                        <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                         <div class="author-meta">
                           {{-- <p class="author-name">By:Smith Roy</p> --}}
                           <p>24th March,2021</p>
@@ -636,7 +638,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal2.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -651,7 +655,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal3.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -666,7 +672,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal4.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -681,7 +689,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal5.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -696,7 +706,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal6.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -711,7 +723,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal7.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -726,7 +740,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal8.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -741,7 +757,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal9.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -756,7 +774,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal10.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -771,7 +791,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal11.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -786,7 +808,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal12.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -801,7 +825,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal13.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
@@ -816,7 +842,9 @@
                       <div class="news-bg" style="background-image: url(assets/img/gal14.jpg);">
                         {{-- <span class="even">Event</span> --}}
                         <div class="content">
-                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <a href="news-single"><h4 class="title">2023 3DAY
+COMMUNITY
+MEDICAL OUTREACH</h4></a>
                           <div class="author-meta">
                             {{-- <p class="author-name">By:Smith Roy</p> --}}
                             <p>24th March,2021</p>
