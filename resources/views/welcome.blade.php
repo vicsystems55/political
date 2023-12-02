@@ -587,6 +587,254 @@
   </div>
   <!-- Our party section end -->
 
+        <!-- News Section Start -->
+        <div class="news-section-start">
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-lg-10">
+                  <div class="section-title">
+                    <div class="subtitle wow animate__animated animate__fadeInUp">
+                      <div class="icon">
+                        <span class="icon-star"></span>
+                        <span class="icon-star"></span>
+                        <span class="icon-star"></span>
+                      </div>
+                      <p>Our Gallery</p>
+                      <div class="icon">
+                        <span class="icon-star"></span>
+                        <span class="icon-star"></span>
+                        <span class="icon-star"></span>
+                      </div>
+                    </div>
+                    <h4 class="title wow animate__animated animate__fadeInUp">Medical Outreach</h4>
+
+                    <p class="description wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                        Empowering Communities Through Healthcare:
+                        A Glimpse of Our 3-Day Medical Outreach
+                  </p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6 col-md-12">
+                  <div class="news-single-items wow animate__animated animate__fadeInUp">
+                    <div class="news-bg" style="background-image: url(assets/img/gal1.jpg);">
+                      {{-- <span class="even">Event</span> --}}
+                      <div class="content">
+                        <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                        <div class="author-meta">
+                          {{-- <p class="author-name">By:Smith Roy</p> --}}
+                          <p>24th March,2021</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal2.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal3.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal4.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal5.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal6.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal7.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal8.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal9.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal10.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal11.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal12.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal13.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-12">
+                    <div class="news-single-items wow animate__animated animate__fadeInUp">
+                      <div class="news-bg" style="background-image: url(assets/img/gal14.jpg);">
+                        {{-- <span class="even">Event</span> --}}
+                        <div class="content">
+                          <a href="news-single"><h4 class="title">Many have given us their trust</h4></a>
+                          <div class="author-meta">
+                            {{-- <p class="author-name">By:Smith Roy</p> --}}
+                            <p>24th March,2021</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+          <!-- News Section End  -->
+
       <!-- News Section Start -->
       <div class="news-section-start">
         <div class="container">
